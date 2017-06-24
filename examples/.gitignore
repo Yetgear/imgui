@@ -33,6 +33,15 @@ sdl_opengl3_example/Debug/*
 sdl_opengl3_example/Release/*
 sdl_opengl3_example/ipch/*
 sdl_opengl3_example/x64/*
+android_native_example/ARM/*
+android_native_example/ARM64/*
+android_native_example/x86/*
+android_native_example/x64/*
+android_native_example/imgui/*/ARM/*
+android_native_example/imgui/*/ARM64/*
+android_native_example/imgui/*/x86/*
+android_native_example/imgui/*/x64/*
+android_native_example/.vs/*
 *.opensdf
 *.sdf
 *.suo
@@ -42,6 +51,8 @@ sdl_opengl3_example/x64/*
 *.exe
 *.pdb
 *.ilk
-
+*.db
+*.db-shm
+*.db-wal
 ## Ini files
 imgui.ini
